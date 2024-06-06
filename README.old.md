@@ -27,7 +27,7 @@ npx create-react-app .
 
 
 
-https://api.themoviedb.org/3/movie/550?api_key=ccfa4ecd270cd9e26cc5791a495b5aca
+https://api.themoviedb.org/3/movie/550?api_key=6d7df6b935719910cebf15c209312102
 
 
 
